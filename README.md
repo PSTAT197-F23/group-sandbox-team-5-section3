@@ -3,6 +3,8 @@
 
 template repo for class activity on git and github in pstat197a
 
+Jackie Chen, Pippa Lin, Yibo
+
 updated october 2023
 
 Pippa Lin, Yibo Liang, Jackie Chen hihihi
