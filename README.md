@@ -7,8 +7,4 @@ Jackie Chen, Pippa Lin, Yibo
 
 updated october 2023
 
-<<<<<<< HEAD
-Lin Pippa, Liang Yibo, Chen Jackie
-=======
-Pippa Lin, Yibo Liang, Jackie Chen hihihi how are you
->>>>>>> 61df10232f94ae0ff51fc573b6fc5a4efde6cbfe
+Pippa Lin, Yibo Liang, Jackie Chen 
