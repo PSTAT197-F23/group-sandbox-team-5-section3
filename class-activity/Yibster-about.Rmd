@@ -9,7 +9,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-# I am learning to surf at UCSB (making a little change)
+I am learning to surf at UCSB
+
 hihihihihi
 
 Did you start surfing this school year?
+Yes I started surfing this summer.
